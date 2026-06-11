@@ -1,7 +1,5 @@
 # 26-Carry-Look-Ahead-Adder
 
-# 4-Bit Carry Look Ahead Adder (CLA)
-
 ## Verilog Module Description
 
 The Carry Look Ahead Adder (CLA) is a high-speed adder that reduces propagation delay by calculating carry signals in advance using Generate (G) and Propagate (P) signals. Unlike Ripple Carry Adders, the CLA does not wait for each carry to propagate through every stage, resulting in faster arithmetic operations.
